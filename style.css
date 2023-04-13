@@ -1,0 +1,122 @@
+.topmostpart {
+    font-size: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    text-align: center;
+    padding: auto;
+    padding-bottom: 30px;
+    margin: auto;
+    padding-right: 553px;
+    top: 18px;
+    padding-top: 20px;
+    left: 10px;
+
+}
+
+.headerimg {
+    float: left;
+    width: 100px;
+    height: 100px;
+    padding-left: 500px;
+    padding-bottom: 30px
+}
+
+
+
+.iphonepart {
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    align-items: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    padding: auto;
+}
+
+.iphoneheading1 {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin-top: auto;
+}
+
+.iphoneheading2 {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+.iphonefeatures {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    color: white;
+    font-weight: 700px;
+    font-size: 35px;
+    text-align: center;
+    margin: auto;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.macandwatchheading1 {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    margin-top: auto;
+}
+
+.macandwatchheading2 {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}
+
+.macpart {
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    margin: auto;
+    align-items: center;
+}
+
+.macandwatchfeatures {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    color: black;
+    font-weight: 700px;
+    font-size: 35px;
+    text-align: center;
+    margin: auto;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.watchpart {
+    background-color: whitesmoke;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    margin: auto;
+    align-items: center;
+}
+
+footer {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    color: black;
+    font-weight: 700px;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
