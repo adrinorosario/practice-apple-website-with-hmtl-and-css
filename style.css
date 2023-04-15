@@ -12,6 +12,10 @@
 
 }
 
+body {
+    overflow-x: initial;
+}
+
 .headerimg {
     float: left;
     width: 100px;
@@ -33,6 +37,7 @@ img {
     display: block;
     margin: auto;
     padding: auto;
+    padding-bottom: 5px;
 }
 
 .iphoneheading1 {
@@ -68,7 +73,8 @@ img {
     color: black;
     font-size: 50px;
     text-align: center;
-    margin-top: auto;
+    margin: 0;
+    padding-bottom: 0;
 }
 
 .macandwatchheading2 {
@@ -76,6 +82,8 @@ img {
     color: black;
     font-size: 40px;
     text-align: center;
+    margin: 0;
+    padding-top: 0;
 }
 
 .macpart {
@@ -112,8 +120,32 @@ img {
     color: black;
     font-size: 50px;
     text-align: center;
-    margin-top: auto;
+    margin: 0;
     padding-top: 20px;
+}
+
+.healthheading2 {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+
+.watchfeatures {
+    background-color: white;
+    border-radius: 100px;
+    width: 80%;
+    align-items: center;
+    margin-top: 0;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 0;
+    padding: auto;
+    box-shadow: 20px;
 }
 
 footer {
