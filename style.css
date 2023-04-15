@@ -38,6 +38,18 @@ img {
     margin: auto;
     padding: auto;
     padding-bottom: 5px;
+    display: flex;
+    flex: initial;
+}
+
+.fitnesspart img {
+    display: block;
+    margin: auto;
+    padding: auto;
+    padding-bottom: 5px;
+    width: 100%;
+    display: flex;
+    flex: initial;
 }
 
 .iphoneheading1 {
