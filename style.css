@@ -69,6 +69,14 @@ img {
     padding: auto;
     padding-bottom: 5px;
     display: flex;
+    flex-wrap: wrap;
+    align-self: center;
+}
+
+.iphonepart img,
+.macpart img,
+.watchpart img {
+    display: flex;
     flex: initial;
 }
 
@@ -133,7 +141,7 @@ img {
     padding-top: 20px;
     padding-bottom: 30px;
     margin: auto;
-    align-items: center;
+
 }
 
 .macandwatchfeatures {
@@ -154,7 +162,6 @@ img {
     padding-top: 20px;
     padding-bottom: 30px;
     margin: auto;
-    align-items: center;
 }
 
 .fitnessheading1 {
