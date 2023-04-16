@@ -12,12 +12,19 @@
 
 }*/
 
-.topmostpart {
+.topmostpart h2 {
     position: relative;
     /*top: 2px;*/
     left: 10px;
     font-size: 25px;
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    height: 29px;
+}
+
+.topmostpart img {
+    float: left;
+    width: 27px;
+    height: 25px;
 }
 
 body {
